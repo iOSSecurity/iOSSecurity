@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习iOS安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破iOS的安全壁垒，直至封神！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2021年12月8日。
+本项目创建于2021年7月17日，最近的一次更新时间为2021年12月23日。
 
 - [0x01-iOS安全资源]()
 - [0x02-iOS安全测试]()
@@ -71,6 +71,8 @@
 - [ ] https://github.com/blinksh/blink
 - [ ] https://github.com/ChiChou/grapefruit
 - [ ] https://github.com/chaitin/passionfruit
+- [ ] https://github.com/Siguza/ios-resources
+- [ ] https://tttang.com/archive/1381
 
 ## 0x02-iOS安全测试
 
