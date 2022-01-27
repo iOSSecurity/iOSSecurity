@@ -2,19 +2,18 @@
 
 本项目是记录自己在学习iOS安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破iOS的安全壁垒，直至封神！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年1月11日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年1月27日。
 
-- [0x01-iOS安全资源]()
-- [0x02-iOS安全测试]()
-- [0x03-iOS安全工具]()
-- [0x04-iOS越狱研究]()
-- [0x05-iOS逆向工程]()
-- [0x06-iOS安全老师]()
+- [01-iOS安全资源](https://github.com/iOSSecurity/iOSSecurity#01-ios%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90)
+- [02-iOS安全测试](https://github.com/iOSSecurity/iOSSecurity#02-ios%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95)
+- [03-iOS安全工具](https://github.com/iOSSecurity/iOSSecurity#03-ios%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
+- [04-iOS越狱研究](https://github.com/iOSSecurity/iOSSecurity#04-ios%E8%B6%8A%E7%8B%B1%E7%A0%94%E7%A9%B6)
+- [05-iOS逆向工程](https://github.com/iOSSecurity/iOSSecurity#05-ios%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B)
+- [06-iOS安全老师](https://github.com/iOSSecurity/iOSSecurity#06-ios%E5%AE%89%E5%85%A8%E8%80%81%E5%B8%88)
 
-## 0x01-iOS安全资源
+## 01-iOS安全资源
 
 一、iOS安全书籍
-
 - [ ] [《iOS应用安全攻防实战》]()
 - [ ] [《iOS应用逆向工程》](https://item.jd.com/11670145.html)@沙梓社
 - [ ] [《最强iOS和macOS安全宝典》](https://item.jd.com/13377234.html)@蒸米译
@@ -74,7 +73,7 @@
 - [ ] https://github.com/Siguza/ios-resources
 - [ ] https://tttang.com/archive/1381
 
-## 0x02-iOS安全测试
+## 02-iOS安全测试
 
 一、绿盟iOS安全测试指南
 
@@ -82,12 +81,12 @@
 
 三、平安科技iOS应用漏洞Wiki
 
-## 0x03-iOS安全工具
+## 03-iOS安全工具
 
 - [ ] https://github.com/shakenetwork/needle
 - [ ] https://github.com/noobpk/frida-ios-hook
 
-## 0x04-iOS越狱研究
+## 04-iOS越狱研究
 
 iOS安全第一步，越狱研究！
 
@@ -97,11 +96,11 @@ iOS安全第一步，越狱研究！
 
 三、h3lix
 
-## 0x05-iOS逆向工程
+## 05-iOS逆向工程
 
 - https://github.com/Dioq/ReverseOC
 
-## 0x06-iOS安全老师
+## 06-iOS安全老师
 
 此处排名不分先后，向自己在学习iOS安全过程中遇到的每一位优秀老师致敬。感谢感谢！
 
@@ -109,3 +108,4 @@ iOS安全第一步，越狱研究！
 - [蒸米](https://github.com/zhengmin1989)
 - [唐巧](https://github.com/tangqiaoboy)
 
+[![Stargazers over time](https://starchart.cc//iOSSecurity/iOSSecurity.svg)](https://starchart.cc/iOSSecurity/iOSSecurity)
