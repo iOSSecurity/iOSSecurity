@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习iOS安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破iOS的安全壁垒，直至封神！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年1月27日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年2月14日。
 
 - [01-iOS安全资源](https://github.com/iOSSecurity/iOSSecurity#01-ios%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90)
 - [02-iOS安全测试](https://github.com/iOSSecurity/iOSSecurity#02-ios%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95)
@@ -99,6 +99,10 @@ iOS安全第一步，越狱研究！
 ## 05-iOS逆向工程
 
 - https://github.com/Dioq/ReverseOC
+
+一、代码混淆
+- https://github.com/netyouli/WHC_ConfuseSoftware
+- https://github.com/2621532542/iOS_NQConfuseTool
 
 ## 06-iOS安全老师
 
