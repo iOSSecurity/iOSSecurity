@@ -1,8 +1,10 @@
 # 《iOS安全测试与安全研究》
 
+![iOSSecurity](https://socialify.git.ci/iOSSecurity/iOSSecurity/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+
 本项目是记录自己在学习iOS安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破iOS的安全壁垒，直至封神！向伟大的乔布斯致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年3月4日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年4月12日。
 
 - [01-iOS安全资源](https://github.com/iOSSecurity/iOSSecurity#01-ios%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90)
 - [02-iOS安全测试](https://github.com/iOSSecurity/iOSSecurity#02-ios%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95)
