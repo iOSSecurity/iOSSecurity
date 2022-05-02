@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习iOS安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破iOS的安全壁垒，直至封神！向伟大的乔布斯致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年4月29日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年5月1日。
 
 - [01-iOS安全资源](https://github.com/iOSSecurity/iOSSecurity#01-ios%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90)
 - [02-iOS安全测试](https://github.com/iOSSecurity/iOSSecurity#02-ios%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95)
@@ -102,6 +102,9 @@ iOS安全第一步，越狱研究！
 二、Fugu
 
 三、h3lix
+
+四、其他
+- [ ] https://github.com/Odyssey-Team/Taurine
 
 ## 05-iOS逆向工程
 
