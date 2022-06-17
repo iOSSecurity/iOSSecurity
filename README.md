@@ -42,11 +42,13 @@
 
 四、iOS专利文献
 
-五、iOS论坛版块
+五、iOS国家标准
 
-六、iOS漏洞程序
+六、iOS论坛版块
 
-七、iOS其他资源
+七、iOS漏洞程序
+
+八、iOS其他资源
 - [ ] [《iOS冰与火之歌系列》](https://github.com/zhengmin1989/MyArticles)@蒸米
 - [ ] https://github.com/silence0201/iOS-Reverse
 - [ ] https://github.com/silence0201/iOS-Category
@@ -79,13 +81,13 @@
 
 ## 02-iOS安全测试
 
-一、绿盟iOS安全测试指南
+一、测试项目汇总
 
-二、奇安信iOS安全测试指南
-
-三、知道创宇iOS安全测试指南
-
-四、平安科技iOS应用漏洞Wiki
+二、公司测试文档
+- 绿盟iOS安全测试指南
+- 奇安信iOS安全测试指南
+- 知道创宇iOS安全测试指南
+- 平安科技iOS应用漏洞Wiki
 
 ## 03-iOS安全工具
 
@@ -116,6 +118,8 @@ iOS安全第一步，越狱研究！
 一、代码混淆
 - https://github.com/netyouli/WHC_ConfuseSoftware
 - https://github.com/2621532542/iOS_NQConfuseTool
+
+二、逆向分析
 
 ## 06-iOS安全老师
 
