@@ -1,10 +1,10 @@
-# iOS安全测试与安全研究
+# 《iOS安全测试与安全研究》
 
 ![iOSSecurity](https://socialify.git.ci/iOSSecurity/iOSSecurity/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
 本项目是记录自己在学习iOS安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破iOS的安全壁垒，直至封神！向伟大的乔布斯致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年6月29日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年7月7日。
 
 - [01-iOS安全资源](https://github.com/iOSSecurity/iOSSecurity#01-ios%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90)
 - [02-iOS安全测试](https://github.com/iOSSecurity/iOSSecurity#02-ios%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95)
@@ -50,6 +50,9 @@
 - [ ] https://github.com/prateek147/DVIA-v2
 
 八、iOS其他资源
+
+- https://github.com/search?p=2&q=ios+Pentest&type=Repositories
+
 - [ ] [《iOS冰与火之歌系列》](https://github.com/zhengmin1989/MyArticles)@蒸米
 - [ ] https://github.com/silence0201/iOS-Reverse
 - [ ] https://github.com/silence0201/iOS-Category
@@ -79,6 +82,12 @@
 - [ ] https://tttang.com/archive/1381
 - [ ] https://github.com/XLsn0w/Cydia
 - [ ] https://github.com/securing/IOSSecuritySuite
+- [ ] https://github.com/psychsecurity/iOS-Pentesting
+- [ ] https://github.com/Snifer/Pentesting-Mobile
+- [ ] https://github.com/allyomalley/pentest_scripts
+- [ ] https://github.com/xebia/mobilehacktools
+- [ ] https://github.com/cnmsec/MpaasPentestTool
+- [ ] https://github.com/dmayer/idb
 
 ## 02-iOS安全测试
 
@@ -90,14 +99,20 @@
 - 知道创宇iOS安全测试指南
 - 平安科技iOS应用漏洞Wiki
 
+三、测试文档资源
+
+- https://www.yuque.com/ashineboy/rg8xcr/nromer
+
 ## 03-iOS安全工具
 
+- [ ] https://github.com/ansjdnakjdnajkd/iOS
 - [ ] https://github.com/shakenetwork/needle
 - [ ] https://github.com/noobpk/frida-ios-hook
 - [ ] https://github.com/Lojii/Knot
 - [ ] https://github.com/gofmt/iOSSniffer
 - [ ] https://github.com/Urinx/iOSAppHook
 - [ ] https://github.com/gofmt/itool
+- [ ] https://github.com/majd/ipatool
 
 ## 04-iOS越狱研究
 
