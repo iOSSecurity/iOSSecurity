@@ -108,7 +108,7 @@
 - [ ] https://github.com/ansjdnakjdnajkd/iOS
 - [ ] https://github.com/shakenetwork/needle
 - [ ] https://github.com/noobpk/frida-ios-hook
-- [ ] https://github.com/Lojii/Knot
+- [ ] https://github.com/Lojii/Knot | 一款iOS端基于MITM的抓包工具 | 1.3k
 - [ ] https://github.com/gofmt/iOSSniffer
 - [ ] https://github.com/Urinx/iOSAppHook
 - [ ] https://github.com/gofmt/itool
