@@ -1,17 +1,21 @@
 # 《iOS安全测试与安全研究》
 
-![iOSSecurity](https://socialify.git.ci/iOSSecurity/iOSSecurity/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+![iOSSecurity](https://socialify.git.ci/iOSSecurity/iOSSecurity/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=0&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
 本项目是记录自己在学习iOS安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破iOS的安全壁垒，直至封神！向伟大的乔布斯致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年11月01日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年12月12日。
 
 - [01-iOS安全资源](https://github.com/iOSSecurity/iOSSecurity#01-ios%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90)
 - [02-iOS安全测试](https://github.com/iOSSecurity/iOSSecurity#02-ios%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95)
-- [03-iOS安全工具](https://github.com/iOSSecurity/iOSSecurity#03-ios%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
-- [04-iOS越狱研究](https://github.com/iOSSecurity/iOSSecurity#04-ios%E8%B6%8A%E7%8B%B1%E7%A0%94%E7%A9%B6)
-- [05-iOS逆向工程](https://github.com/iOSSecurity/iOSSecurity#05-ios%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B)
-- [06-iOS安全老师](https://github.com/iOSSecurity/iOSSecurity#06-ios%E5%AE%89%E5%85%A8%E8%80%81%E5%B8%88)
+- [03-iOS安全研究](https://github.com/iOSSecurity/iOSSecurity#03-ios%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
+- [04-iOS安全工具](https://github.com/iOSSecurity/iOSSecurity#04-ios%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
+- [05-iOS越狱研究](https://github.com/iOSSecurity/iOSSecurity#05-ios%E8%B6%8A%E7%8B%B1%E7%A0%94%E7%A9%B6)
+- [06-iOS加壳脱壳](https://github.com/iOSSecurity/iOSSecurity#06-ios%E5%8A%A0%E5%A3%B3%E8%84%B1%E5%A3%B3)
+- [07-iOS开发基础](https://github.com/iOSSecurity/iOSSecurity#07-ios%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80)
+- [08-iOS代码审计](https://github.com/iOSSecurity/iOSSecurity#08-ios%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
+- [09-iOS病毒分析](https://github.com/iOSSecurity/iOSSecurity#09-ios%E7%97%85%E6%AF%92%E5%88%86%E6%9E%90)
+- [10-iOS安全产品](https://github.com/iOSSecurity/iOSSecurity#10-ios%E5%AE%89%E5%85%A8%E4%BA%A7%E5%93%81)
 
 ## 01-iOS安全资源
 
@@ -47,10 +51,7 @@
 
 六、iOS论坛版块
 
-七、iOS漏洞程序
-- [ ] https://github.com/prateek147/DVIA-v2
-
-八、iOS其他资源
+七、iOS其他资源
 - https://github.com/search?p=2&q=ios+Pentest&type=Repositories
 - [ ] [《iOS冰与火之歌系列》](https://github.com/zhengmin1989/MyArticles)@蒸米
 - [ ] https://github.com/silence0201/iOS-Reverse
@@ -103,7 +104,19 @@
 
 - https://www.yuque.com/ashineboy/rg8xcr/nromer
 
-## 03-iOS安全工具
+## 03-iOS安全研究
+
+- https://github.com/Dioq/ReverseOC
+- https://github.com/yahibo/iOSReverse
+
+一、代码混淆
+
+- https://github.com/netyouli/WHC_ConfuseSoftware
+- https://github.com/2621532542/iOS_NQConfuseTool
+
+二、逆向分析
+
+## 04-iOS安全工具
 
 - [ ] https://github.com/ansjdnakjdnajkd/iOS
 - [ ] https://github.com/shakenetwork/needle
@@ -117,7 +130,7 @@
 - [ ] https://github.com/hughkli/Lookin
 - [ ] https://appsec-labs.com/inalyzer
 
-## 04-iOS越狱研究
+## 05-iOS越狱研究
 
 iOS安全第一步，越狱研究！
 
@@ -131,18 +144,19 @@ iOS安全第一步，越狱研究！
 - [ ] https://github.com/Odyssey-Team/Taurine
 - [ ] https://github.com/pinauten/Fugu15
 
-## 05-iOS逆向工程
+## 06-iOS加壳脱壳
 
-- https://github.com/Dioq/ReverseOC
-- https://github.com/yahibo/iOSReverse
+## 07-iOS开发基础
 
-一、代码混淆
-- https://github.com/netyouli/WHC_ConfuseSoftware
-- https://github.com/2621532542/iOS_NQConfuseTool
+## 08-iOS代码审计
 
-二、逆向分析
+## 09-iOS病毒分析
 
-## 06-iOS安全老师
+- https://github.com/prateek147/DVIA-v2
+
+## 10-iOS安全产品
+
+## 11-iOS安全老师
 
 此处排名不分先后，向自己在学习iOS安全过程中遇到的每一位优秀老师致敬。感谢感谢！
 
