@@ -10,12 +10,10 @@
 - [02-iOS安全测试](https://github.com/iOSSecurity/iOSSecurity#02-ios%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95)
 - [03-iOS安全研究](https://github.com/iOSSecurity/iOSSecurity#03-ios%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
 - [04-iOS安全工具](https://github.com/iOSSecurity/iOSSecurity#04-ios%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
-- [05-iOS越狱研究](https://github.com/iOSSecurity/iOSSecurity#05-ios%E8%B6%8A%E7%8B%B1%E7%A0%94%E7%A9%B6)
-- [06-iOS加壳脱壳](https://github.com/iOSSecurity/iOSSecurity#06-ios%E5%8A%A0%E5%A3%B3%E8%84%B1%E5%A3%B3)
-- [07-iOS开发基础](https://github.com/iOSSecurity/iOSSecurity#07-ios%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80)
-- [08-iOS代码审计](https://github.com/iOSSecurity/iOSSecurity#08-ios%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
-- [09-iOS病毒分析](https://github.com/iOSSecurity/iOSSecurity#09-ios%E7%97%85%E6%AF%92%E5%88%86%E6%9E%90)
-- [10-iOS安全产品](https://github.com/iOSSecurity/iOSSecurity#10-ios%E5%AE%89%E5%85%A8%E4%BA%A7%E5%93%81)
+- [05-iOS开发基础](https://github.com/iOSSecurity/iOSSecurity#05-ios%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80)
+- [06-iOS代码审计](https://github.com/iOSSecurity/iOSSecurity#06-ios%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
+- [07-iOS病毒分析](https://github.com/iOSSecurity/iOSSecurity#07-ios%E7%97%85%E6%AF%92%E5%88%86%E6%9E%90)
+- [08-iOS安全产品](https://github.com/iOSSecurity/iOSSecurity#08-ios%E5%AE%89%E5%85%A8%E4%BA%A7%E5%93%81)
 
 ## 01-iOS安全资源
 
@@ -109,12 +107,24 @@
 - https://github.com/Dioq/ReverseOC
 - https://github.com/yahibo/iOSReverse
 
-一、代码混淆
+iOS安全第一步，越狱研究！
+
+一、越狱研究
+
+- checkra1n
+- Fugu
+- h3lix
+- [Taurine](https://github.com/Odyssey-Team/Taurine)
+- [Fugu15](https://github.com/pinauten/Fugu15)
+
+二、安全机制
+
+三、代码混淆
 
 - https://github.com/netyouli/WHC_ConfuseSoftware
 - https://github.com/2621532542/iOS_NQConfuseTool
 
-二、逆向分析
+四、逆向分析
 
 ## 04-iOS安全工具
 
@@ -130,33 +140,17 @@
 - [ ] https://github.com/hughkli/Lookin
 - [ ] https://appsec-labs.com/inalyzer
 
-## 05-iOS越狱研究
+## 05-iOS开发基础
 
-iOS安全第一步，越狱研究！
+## 06-iOS代码审计
 
-一、checkra1n
-
-二、Fugu
-
-三、h3lix
-
-四、其他
-- [ ] https://github.com/Odyssey-Team/Taurine
-- [ ] https://github.com/pinauten/Fugu15
-
-## 06-iOS加壳脱壳
-
-## 07-iOS开发基础
-
-## 08-iOS代码审计
-
-## 09-iOS病毒分析
+## 07-iOS病毒分析
 
 - https://github.com/prateek147/DVIA-v2
 
-## 10-iOS安全产品
+## 08-iOS安全产品
 
-## 11-iOS安全老师
+## 09-iOS安全老师
 
 此处排名不分先后，向自己在学习iOS安全过程中遇到的每一位优秀老师致敬。感谢感谢！
 
