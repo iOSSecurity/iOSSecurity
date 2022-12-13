@@ -108,6 +108,7 @@
 - [ ] https://github.com/cyhe/iOSSecurity-Attack
 - [ ] https://github.com/LZRight123/GuardApp
 - [ ] https://github.com/wrlu/SecMobile
+- [ ] https://github.com/sqlsec/MobileSecurity
 
 ## 02-iOS安全测试
 
@@ -207,6 +208,7 @@ iOS安全第一步，越狱研究！
 - https://docs.aiot.virbox.com/how-to-use/iosprotection
 - https://www.nagain.com/#/produCtenter/securityReinforce/ios
 - https://www.secidea.com/mars.html
+- https://www.bangcle.com/pages/cat_id/94.html
 
 ## 09-iOS安全老师
 
