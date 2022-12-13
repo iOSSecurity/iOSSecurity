@@ -18,7 +18,8 @@
 ## 01-iOS安全资源
 
 一、iOS安全书籍
-- [ ] [《iOS应用安全攻防实战》]()
+- [ ] [《iOS安全测试与安全研究》](https://github.com/iOSSecurity/iOSSecurity)@0e0w
+- [ ] [《iOS应用安全攻防实战》](https://item.jd.com/10066263849333.html)@肖梓航译
 - [ ] [《iOS应用逆向工程》](https://item.jd.com/11670145.html)@沙梓社
 - [ ] [《最强iOS和macOS安全宝典》](https://item.jd.com/13377234.html)@蒸米译
 - [ ] [《iOS应用逆向与安全之道》](https://item.jd.com/12800426.html)@罗巍
