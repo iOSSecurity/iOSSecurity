@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习iOS安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破iOS的安全壁垒，直至封神！向伟大的乔布斯致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年12月13日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年12月18日。
 
 - [01-iOS安全资源](https://github.com/iOSSecurity/iOSSecurity#01-ios%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90)
 - [02-iOS安全测试](https://github.com/iOSSecurity/iOSSecurity#02-ios%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95)
@@ -117,6 +117,8 @@
 - [ ] https://github.com/secmobi/wiki.secmobi.com
 - [ ] https://github.com/project-imas
 - [ ] https://github.com/iSECPartners
+- [ ] [IOS APP渗透测试漏洞汇总-工具环境和漏洞列表](https://www.freebuf.com/vuls/278913.html)
+- [ ] https://tttang.com/sort/ios
 
 ## 02-iOS安全测试
 
@@ -164,6 +166,7 @@ iOS安全第一步，越狱研究！
 ## 04-iOS安全工具
 
 - [x] https://github.com/frida/frida
+- [ ] https://github.com/S3Jensen/iRET
 - [ ] https://github.com/ansjdnakjdnajkd/iOS
 - [ ] https://github.com/WithSecureLabs/needle
 - [ ] https://github.com/sensepost/objection
@@ -184,6 +187,41 @@ iOS安全第一步，越狱研究！
 - [ ] https://github.com/alibaba/iOSSecAudit
 - [ ] https://github.com/Soulghost/iblessing
 - [ ] https://github.com/aktsk/ipautil
+- [ ] https://github.com/aktsk/ipa-medit
+- [ ] https://github.com/Alsan/ipapk-server
+- [ ] https://github.com/guanchaoguo/AppDistribution
+- [ ] https://github.com/bzon/gota
+- [ ] https://github.com/toshi0383/ipanema
+- [ ] https://github.com/aadog/fd
+- [ ] https://github.com/ChiChou/bagbak
+- [ ] https://github.com/enmity-mod/patcher
+- [ ] https://github.com/bl-core-vitals/appdiff
+- [ ] https://github.com/hcninja/ipanema
+- [ ] https://github.com/OuterCloud/HelloIPA
+- [ ] https://github.com/gotokatsuya/ipare
+- [ ] https://github.com/follyxing/appfile-info
+- [ ] https://github.com/CrackerCat/iOSBox
+- [ ] https://github.com/SonicCloudOrg/sonic-ios-bridge
+- [ ] https://github.com/blacktop/ipsw
+- [ ] https://github.com/bitrise-io/codesigndoc
+- [ ] https://github.com/c0618/iOSSniffer | iOS抓包工具 | 3
+- [ ] https://github.com/SignTools/SignTools
+- [ ] https://github.com/iineva/ipa-server
+- [ ] https://github.com/fengjixuchui/iOSTracer
+- [ ] https://github.com/steeve/itool
+- [ ] https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security
+- [ ] https://github.com/nettitude/scrounger
+- [ ] https://www.i-funbox.com/zh-cn/index.html
+- [ ] https://github.com/Soulghost/iblessing
+- [ ] https://github.com/dmayer/idb
+- [ ] https://github.com/seemoo-lab/toothpicker
+- [ ] https://github.com/BishopFox/bfinject
+- [ ]  https://github.com/KJCracks/Clutch
+- [ ] https://github.com/nygard/class-dump
+- [ ] https://github.com/AloneMonkey/frida-ios-dump
+- [ ] https://github.com/BishopFox/iSpy
+- [ ] https://github.com/atomicbird/momdec
+- [ ] https://github.com/autopear/ipainstaller
 
 ## 05-iOS开发基础
 
